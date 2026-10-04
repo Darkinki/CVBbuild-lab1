@@ -1,0 +1,16 @@
+path: C:\Users\User\Python_projects\cv\yolo_dataset
+train: images/train
+val: images/train
+nc: 11
+names:
+- Caption
+- Footnote
+- Formula
+- List-item
+- Page-footer
+- Page-header
+- Picture
+- Section-header
+- Table
+- Text
+- Title
